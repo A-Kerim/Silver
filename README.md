@@ -1,4 +1,4 @@
-# Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
+# Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasksx
 
  <p align="center">
 <img align="center" src="ezgif.com-gif-maker.gif" width="660" height="500" />
