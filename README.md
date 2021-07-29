@@ -59,3 +59,9 @@ To see a long video, please click on the images below.
   booktitle={2nd International Workshop on Data Quality Assessment for Machine Learning},
   year={2021}
 }
+@inproceedings{kerim2021silver,
+  title={Silver: Novel Rendering Engine for Data Hungry Computer Vision Models},
+  author={Kerim, Abdulrahman and Soriano Marcolino, Leandro and Jiang, Richard},
+  booktitle={2nd International Workshop on Data Quality Assessment for Machine Learning},
+  year={2021}
+}
