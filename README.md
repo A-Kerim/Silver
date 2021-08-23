@@ -49,7 +49,7 @@ To see a long video, please click on the images below.
 * Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
 * Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
 ## Licence
-* The Dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
+* The dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
 * If you use the dataset or the framework feel free to cite our work.
 ## Citation
 * Our [Paper](https://eprints.lancs.ac.uk/id/eprint/157140/1/KDD_Workshop_Paper_AuthorVersion.pdf) got accepted to 2nd International Workshop on Data Quality Assessment for Machine Learning @ SIGKDD.
